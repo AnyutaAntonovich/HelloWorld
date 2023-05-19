@@ -1,0 +1,15 @@
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\bin\Debug\net6.0\HelloConsole.exe
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\bin\Debug\net6.0\HelloConsole.deps.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\bin\Debug\net6.0\HelloConsole.runtimeconfig.json
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\bin\Debug\net6.0\HelloConsole.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\bin\Debug\net6.0\HelloConsole.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.AssemblyReference.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfoInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.AssemblyInfo.cs
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.csproj.CoreCompileInputs.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\refint\HelloConsole.dll
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.pdb
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\HelloConsole.genruntimeconfig.cache
+D:\Учёба\GeekBrains\Вне четверти\С #\Практика\Hello_world\HelloWorld\HelloConsole\obj\Debug\net6.0\ref\HelloConsole.dll
